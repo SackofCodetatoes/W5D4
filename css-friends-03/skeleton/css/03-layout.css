@@ -1,0 +1,14 @@
+/* PHASE 3: Layout */
+.content {
+  min-height: 200px;
+  background: blue;
+
+}
+
+.content-sidebar {
+  background-color: yellow;
+}
+
+.content-main {
+  background-color: green;
+}
